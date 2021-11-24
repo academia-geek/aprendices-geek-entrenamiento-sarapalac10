@@ -1,0 +1,45 @@
+#logo1 {
+    width: 100px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#convertir{
+    border-radius: 5px;
+    background-color: rgb(15, 161, 15);
+    color: white;
+}
+
+#validacion{
+    border-radius: 5px;
+    background-color: pink;
+    color: white; 
+    border: solid 1px rgb(255, 0, 221);
+    text-align: center;
+    width: 90%
+}
+
+#validacion:hover , #validacion:active {
+    background-color: rgb(231, 133, 231);
+    transform:scale(1.15);
+}
+
+.tipoMoneda{
+    border-radius: 5px;
+    background-color: rgb(141, 139, 139);
+    color: black;
+    margin: 0 0 10px 0
+}
+
+#dinero{
+    text-align: center;
+    margin: 10px 10px 20px 10px;
+}
+
+.contenedor{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(151, 146, 146, 0.39);
+    text-align: center;
+}
